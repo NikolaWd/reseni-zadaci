@@ -1,0 +1,49 @@
+
+.prijavljen {
+    background-color: rgb(16, 16, 213);
+    color: white;
+    padding: 10px;
+    margin: 5px;
+}
+
+a {
+    color: white;
+    font-size: x-large;
+    margin-right: 5px;
+}
+
+
+.footer {
+    background-color: rgb(16, 16, 213);
+    color: white;
+    text-align: center;
+    font-size: larger;
+    padding: 15px;
+}
+
+#odgovor {
+    color:  red;
+    font-size: larger;
+}
+
+.forma {
+    background-color: rgb(16, 16, 213);
+    color: white;
+    font-size: larger;
+    padding: 10px;
+}
+
+.phone {
+    background-color: rgb(37, 80, 197);
+    color: white;
+    font-size: larger;
+    padding: 15px;
+    display: inline-block;
+    margin: 5px;
+    border: 1px solid black;
+}
+
+img {
+    width: 150px;
+    height: 160px;
+}
