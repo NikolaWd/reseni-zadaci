@@ -1,0 +1,114 @@
+.footer {
+    text-align: center;
+    background-color: rgb(131, 32, 52);
+    color: white;
+    font-size: larger;
+    padding: 10px;
+    margin: 5px;
+}
+
+.zelen {
+    color: green;
+    font-size: larger;
+    text-align: center;
+}
+
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #customers tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #customers tr:hover {background-color: #ddd;}
+  
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #04AA6D;
+    color: white;
+  }
+
+.info {
+    color: lightseagreen;
+    padding: 5px;
+    text-align: center;
+    font-size: larger;
+}
+
+
+.crven {
+    color: red;
+    font-size: larger;
+    text-align: center;
+}
+
+#btnPrihvati {
+    background-color: #04AA6D;
+    color: white;
+    padding: 5px;
+    border: 0px;
+}
+
+#btnOdbij {
+    background-color: rgb(187, 26, 26);
+    color: white;
+    padding: 5px;
+    border: 0px;
+}
+
+.prijavljen {
+    background-color: pink;
+    padding: 10px;
+    margin: 3px;
+    font-size: larger;
+    color: black;
+}
+
+#narudzbina {
+    color: red;
+    font-size: larger;
+    padding: 10px;
+    margin: 2px;
+}
+
+.odgovor {
+    color: red;
+    padding: 10px;
+    margin: 2px;
+    width: fit-content;
+}
+
+.slika {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 300px;
+    width: 60%;
+}
+
+.row {
+    display: flex;
+    margin: auto;
+    width: fit-content;
+}
+
+.velicina {
+    margin-right: 100px;
+    font-size: larger;
+}
+
+
+.forma {
+    width: fit-content;
+    margin: auto;
+    background-color: pink;
+    padding: 10px;
+}
